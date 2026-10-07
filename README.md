@@ -240,4 +240,4 @@ This repository serves as the official landing page for Read it Later (Pocket). 
 **Get the most recent version of Read it Later (Pocket) today!**
 
 ---
-**Last updated:** 2026-10-06 22:06:37 UTC
+**Last updated:** 2026-10-07 01:56:34 UTC
